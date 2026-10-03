@@ -132,7 +132,7 @@ uvicorn app:app --reload
 Then open `http://127.0.0.1:8000/docs` in the browser to test both endpoints interactively.
 
 **Live (deployed):**
-Open `<live-link>/docs` in the browser to test both endpoints interactively. No local setup needed.
+Open `https://social-media-post-generator-yud5.onrender.com/docs` in the browser to test both endpoints interactively. No local setup needed.
 
 
 ## Sample Request (API)
